@@ -1,0 +1,21 @@
+[
+  {
+    "topic": {
+      "en": "Butterfly Earthquake Effect",
+      "zh": "蝴蝶地震效應"
+    },
+    "categories": {
+      "en": ["Meteorology", "Insect Behavior", "Seismology"],
+      "zh": ["氣象學", "昆蟲行為學", "地震學"]
+    },
+    "correct_category": {
+      "en": ["Seismology"],
+      "zh": ["地震學"]
+    },
+    "explanation": {
+      "en": "A little-known theory that suggests the movement of butterfly wings in large swarms can create micro-vibrations that may influence tectonic activity.",
+      "zh": "一種鮮為人知的理論，認為大量蝴蝶拍動翅膀會產生微小震動，可能影響地殼活動。"
+    }
+  }
+  
+]

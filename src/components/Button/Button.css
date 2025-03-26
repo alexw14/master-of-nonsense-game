@@ -1,0 +1,45 @@
+button {
+  padding: 24px 48px;
+  font-size: 2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn.view-explanation {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.btn.view-explanation:hover {
+  background-color: #45a049;
+  transform: translateY(-4px);
+  box-shadow: 0 5px 15px rgba(0, 128, 0, 0.2);
+}
+
+.btn.view-explanation:active {
+  background-color: #388e3c;
+  transform: translateY(2px);
+}
+
+.btn.next {
+  background-color: #007bff;
+  color: white;
+  position: fixed;
+  bottom: 48px;
+  right: 48px;
+  z-index: 10;
+}
+
+.btn.next:hover {
+  background-color: #0056b3;
+  transform: translateY(-4px);
+  box-shadow: 0 5px 15px rgba(0, 0, 255, 0.2);
+}
+
+.btn.next:active {
+  background-color: #004085;
+  transform: translateY(2px);
+}
