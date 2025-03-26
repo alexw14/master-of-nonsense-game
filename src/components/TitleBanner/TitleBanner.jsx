@@ -3,7 +3,7 @@ import "./TitleBanner.css";
 
 const TitleBanner = () => {
   const buttonInfo = {
-    path: "/master-of-nonsense/game",
+    path: "/master-of-nonsense-game/play",
     text: "開始 / Start",
   }
   
