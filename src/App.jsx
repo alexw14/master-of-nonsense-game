@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/master-of-nonsense" element={<LandingPage />} />
-        <Route path="/master-of-nonsense/game" element={<GamePage />} />
+        <Route path="/master-of-nonsense-game" element={<LandingPage />} />
+        <Route path="/master-of-nonsense-game/play" element={<GamePage />} />
       </Routes>
     </Router>
   );
