@@ -1,11 +1,11 @@
-import { useState, useEffect } from "react";
-import CardTopic from "../components/CardTopic/CardTopic";
-import CardCategories from "../components/CardCategories/CardCategories";
-import CardExplanation from "../components/CardExplanation/CardExplanation";
-import CountdownTimer from "../components/CountdownTimer/CountdownTimer";
-import Button from "../components/Button/Button";
-import topics from "../data/topics.json";
-import "./GamePage.css";
+import { useState, useEffect } from 'react';
+import CardTopic from '../components/CardTopic/CardTopic';
+import CardCategories from '../components/CardCategories/CardCategories';
+import CardExplanation from '../components/CardExplanation/CardExplanation';
+import CountdownTimer from '../components/CountdownTimer/CountdownTimer';
+import Button from '../components/Button/Button';
+import topics from '../data/topics.json';
+import './GamePage.css';
 
 const GamePage = () => {
   const [card, setCard] = useState({});
@@ -30,12 +30,12 @@ const GamePage = () => {
   };
 
   const viewExplanationBtnInfo = {
-    text: "查看解釋 / View Explanation",
+    text: '查看解釋 / View Explanation',
     onClick: openExplanation,
   };
 
   const nextBtnInfo = {
-    text: "下一題 / Next",
+    text: '下一題 / Next',
     onClick: getRandomTopicAndUpdateCard,
   };
 
@@ -63,7 +63,11 @@ const GamePage = () => {
     </>
   );
 
-  return <div className="game-page-container">{renderedGame}</div>;
+  const classesToAdd = `game-page-container ${
+    showExplanation ? '' : 'height-1000'
+  }`;
+
+  return <div className={classesToAdd}>{renderedGame}</div>;
 };
 
 export default GamePage;

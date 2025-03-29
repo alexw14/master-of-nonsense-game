@@ -1,21 +1,1806 @@
 [
   {
     "topic": {
-      "en": "Butterfly Earthquake Effect",
-      "zh": "蝴蝶地震效應"
+      "en": "The Great Emu War",
+      "zh": "大鴯鶓戰爭"
     },
     "categories": {
-      "en": ["Meteorology", "Insect Behavior", "Seismology"],
-      "zh": ["氣象學", "昆蟲行為學", "地震學"]
+      "en": ["Military History", "Animal Conflicts", "Ancient Warfare"],
+      "zh": ["軍事歷史", "動物衝突", "古代戰爭"]
     },
     "correct_category": {
-      "en": ["Seismology"],
-      "zh": ["地震學"]
+      "en": ["Military History"],
+      "zh": ["軍事歷史"]
     },
     "explanation": {
-      "en": "A little-known theory that suggests the movement of butterfly wings in large swarms can create micro-vibrations that may influence tectonic activity.",
-      "zh": "一種鮮為人知的理論，認為大量蝴蝶拍動翅膀會產生微小震動，可能影響地殼活動。"
+      "en": "In 1932, Australia declared war on a large population of emus that were damaging crops. Despite being armed with machine guns, the humans lost as the emus proved too fast and resilient. The event remains one of the most bizarre military conflicts in history.",
+      "zh": "1932年，澳洲向大量破壞農作物的鴯鶓宣戰。儘管配備了機關槍，人類仍然無法戰勝這些速度驚人的鳥類。這場戰爭成為歷史上最奇特的軍事衝突之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Exploding Toad Epidemic",
+      "zh": "爆炸蟾蜍事件"
+    },
+    "categories": {
+      "en": ["Biology", "Paranormal Events", "Environmental Science"],
+      "zh": ["生物學", "超自然事件", "環境科學"]
+    },
+    "correct_category": {
+      "en": ["Biology"],
+      "zh": ["生物學"]
+    },
+    "explanation": {
+      "en": "In 2005, thousands of toads in Germany began mysteriously swelling up and exploding. Scientists later discovered that crows had been pecking out their livers, causing a buildup of gases. The phenomenon initially led to wild speculation about pollution or supernatural causes.",
+      "zh": "2005年，德國數千隻蟾蜍神秘地膨脹並爆炸。科學家後來發現，這是因為烏鴉啄食蟾蜍的肝臟，導致體內氣體積聚。這一現象最初引發了關於污染或超自然現象的各種猜測。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Dancing Plague of 1518",
+      "zh": "1518年舞蹈瘟疫"
+    },
+    "categories": {
+      "en": ["Medical History", "Dance Culture", "Mass Hysteria"],
+      "zh": ["醫學歷史", "舞蹈文化", "集體歇斯底里"]
+    },
+    "correct_category": {
+      "en": ["Mass Hysteria"],
+      "zh": ["集體歇斯底里"]
+    },
+    "explanation": {
+      "en": "In 1518, a bizarre outbreak caused hundreds of people in Strasbourg to dance uncontrollably for days. Some danced until they collapsed from exhaustion or even died. Historians believe this was a case of mass hysteria, possibly triggered by extreme stress or contaminated food.",
+      "zh": "1518年，法國史特拉斯堡發生了一場奇怪的事件，數百人無法控制地跳舞數天。有些人跳到精疲力竭甚至死亡。歷史學家認為這可能是集體歇斯底里，由極端壓力或受污染食物引發。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Green Children of Woolpit",
+      "zh": "沃爾皮特的綠色兒童"
+    },
+    "categories": {
+      "en": ["Folklore", "Extraterrestrial Encounters", "Genetic Mutations"],
+      "zh": ["民間傳說", "外星遭遇", "基因突變"]
+    },
+    "correct_category": {
+      "en": ["Folklore"],
+      "zh": ["民間傳說"]
+    },
+    "explanation": {
+      "en": "In medieval England, two children with green skin were found in the village of Woolpit. They spoke an unknown language and refused to eat anything but beans. Some believe they came from another world, while others suggest they suffered from a rare medical condition.",
+      "zh": "在中世紀英格蘭，兩名皮膚呈綠色的孩子出現在沃爾皮特村。他們說著陌生的語言，並且只願意吃豆類。有些人認為他們來自另一個世界，而另一些人則認為他們患有罕見的疾病。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Mysterious Hum",
+      "zh": "神秘嗡嗡聲"
+    },
+    "categories": {
+      "en": [
+        "Unexplained Phenomena",
+        "Hearing Disorders",
+        "Electromagnetic Interference"
+      ],
+      "zh": ["未解之謎", "聽覺障礙", "電磁干擾"]
+    },
+    "correct_category": {
+      "en": ["Unexplained Phenomena"],
+      "zh": ["未解之謎"]
+    },
+    "explanation": {
+      "en": "Around the world, people report hearing a low-frequency hum with no identifiable source. Some suggest it is caused by industrial noise or electromagnetic waves, while others believe it may be a psychological phenomenon. Despite investigations, the exact cause remains unknown.",
+      "zh": "世界各地的人們都聲稱聽到低頻的嗡嗡聲，但找不到明確的來源。有些人認為這是工業噪音或電磁波造成的，而另一些人則認為這可能是一種心理現象。儘管進行了許多調查，確切的原因仍然未知。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Ate an Airplane",
+      "zh": "吃掉飛機的人"
+    },
+    "categories": {
+      "en": ["Guinness World Records", "Unusual Diets", "Aviation Accidents"],
+      "zh": ["金氏世界紀錄", "奇特飲食", "航空事故"]
+    },
+    "correct_category": {
+      "en": ["Unusual Diets"],
+      "zh": ["奇特飲食"]
+    },
+    "explanation": {
+      "en": "Michel Lotito, a French entertainer, became famous for consuming inedible objects, including an entire Cessna 150 airplane. He gradually ate it over two years, breaking it into small pieces and consuming them with mineral oil. His stomach lining was uniquely thick, allowing him to digest metal without harm.",
+      "zh": "法國表演者米歇爾·洛蒂託因吃下不可食用物品而聞名，包括一架整架賽斯納150飛機。他花了兩年時間將其分解成小塊並搭配礦物油食用。他的胃壁異常厚實，使他能夠無害地消化金屬。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Island Where People Forget How to Die",
+      "zh": "人們忘記死亡的島嶼"
+    },
+    "categories": {
+      "en": ["Longevity", "Mythical Places", "Medical Anomalies"],
+      "zh": ["長壽秘境", "神話地點", "醫學異常"]
+    },
+    "correct_category": {
+      "en": ["Longevity"],
+      "zh": ["長壽秘境"]
+    },
+    "explanation": {
+      "en": "Ikaria, a Greek island, is known for its unusually high number of centenarians. Many residents live past 100 with no signs of chronic disease. Scientists believe their longevity is linked to diet, lifestyle, and low stress, leading some to call it 'the island where people forget to die.'",
+      "zh": "希臘的伊卡利亞島以擁有大量百歲老人而聞名。許多居民活過100歲，且無慢性病跡象。科學家認為這與飲食、生活方式和低壓力有關，因此該島被稱為『人們忘記死亡的島嶼』。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Banned Death",
+      "zh": "禁止死亡的小鎮"
+    },
+    "categories": {
+      "en": ["Strange Laws", "Philosophy", "Climate Science"],
+      "zh": ["奇特法律", "哲學", "氣候科學"]
+    },
+    "correct_category": {
+      "en": ["Strange Laws"],
+      "zh": ["奇特法律"]
+    },
+    "explanation": {
+      "en": "Longyearbyen, a town in Norway, has made dying illegal. Due to the permafrost, bodies do not decompose, so burials have been banned since 1950. If someone is terminally ill, they must leave the town to pass away elsewhere, making it one of the world's strangest laws.",
+      "zh": "挪威的朗伊爾城立法禁止死亡。由於永凍層的關係，屍體無法自然分解，因此自1950年起便禁止埋葬。如果有人身患絕症，必須離開小鎮，在其他地方去世，使其成為世界上最奇特的法律之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Fish That Climbs Trees",
+      "zh": "會爬樹的魚"
+    },
+    "categories": {
+      "en": ["Marine Biology", "Mutant Creatures", "Evolution"],
+      "zh": ["海洋生物學", "變異生物", "演化"]
+    },
+    "correct_category": {
+      "en": ["Marine Biology"],
+      "zh": ["海洋生物學"]
+    },
+    "explanation": {
+      "en": "The mudskipper is a fish that can survive on land and even climb trees. Using its pectoral fins, it pulls itself up roots and branches in search of food. Its ability to breathe through its skin and mouth makes it one of the most unusual fish in the world.",
+      "zh": "彈塗魚是一種能夠在陸地上生存甚至爬樹的魚。它利用胸鰭將自己拉到樹根和樹枝上尋找食物。它能通過皮膚和口腔呼吸，使其成為世界上最奇特的魚類之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Survived Lightning 7 Times",
+      "zh": "被雷劈七次的男人"
+    },
+    "categories": {
+      "en": ["Unbelievable Survival Stories", "Meteorology", "Superpowers"],
+      "zh": ["難以置信的生還故事", "氣象學", "超能力"]
+    },
+    "correct_category": {
+      "en": ["Unbelievable Survival Stories"],
+      "zh": ["難以置信的生還故事"]
+    },
+    "explanation": {
+      "en": "Roy Sullivan, a park ranger, was struck by lightning seven times in his life and survived each time. Statistically, the odds of this happening are almost impossible. His story remains one of the most bizarre cases of extreme luck—or extreme misfortune.",
+      "zh": "羅伊·沙利文是一名公園護林員，他一生中被雷擊中七次，卻每次都奇蹟般地存活。從統計上看，發生這種情況的概率幾乎為零。他的故事至今仍然是極端幸運或極端不幸的典型案例。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Woman Who Lived Without a Brain",
+      "zh": "沒有大腦卻活著的女人"
+    },
+    "categories": {
+      "en": ["Medical Anomalies", "Psychic Phenomena", "Science Fiction"],
+      "zh": ["醫學異常", "靈異現象", "科幻"]
+    },
+    "correct_category": {
+      "en": ["Medical Anomalies"],
+      "zh": ["醫學異常"]
+    },
+    "explanation": {
+      "en": "In 2007, doctors discovered that a woman in China had been living her entire life without a cerebellum, the part of the brain responsible for motor control. Despite this, she was able to walk, talk, and live a relatively normal life, though she had minor balance issues. This case baffled scientists, proving how adaptable the human brain can be.",
+      "zh": "2007年，醫生發現中國一名女子竟然天生沒有小腦，而小腦是負責運動控制的重要部位。儘管如此，她仍然能夠行走、說話，並過著相對正常的生活，僅有輕微的平衡問題。這個案例讓科學家震驚，證明了人類大腦的驚人適應能力。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Day It Rained Meat",
+      "zh": "肉雨事件"
+    },
+    "categories": {
+      "en": ["Unexplained Phenomena", "Culinary History", "Weather Events"],
+      "zh": ["未解之謎", "美食歷史", "氣象事件"]
+    },
+    "correct_category": {
+      "en": ["Unexplained Phenomena"],
+      "zh": ["未解之謎"]
+    },
+    "explanation": {
+      "en": "In 1876, residents of Kentucky reported chunks of raw meat falling from the sky. Some brave locals even tasted it, describing it as similar to mutton or venison. Scientists later suggested it might have been regurgitated by vultures, but no definitive explanation was ever confirmed.",
+      "zh": "1876年，美國肯塔基州的居民報告稱，天空中竟然掉落了大量生肉。一些大膽的當地人甚至品嚐了這些肉，並表示味道類似羊肉或鹿肉。科學家後來推測這可能是禿鷹集體嘔吐的結果，但這一現象的確切原因至今仍未被證實。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Woke Up Speaking a New Language",
+      "zh": "醒來後會說新語言的男人"
+    },
+    "categories": {
+      "en": ["Neurology", "Reincarnation", "Linguistics"],
+      "zh": ["神經學", "輪迴轉世", "語言學"]
+    },
+    "correct_category": {
+      "en": ["Neurology"],
+      "zh": ["神經學"]
+    },
+    "explanation": {
+      "en": "An Australian man named Ben McMahon fell into a coma after a severe car accident. When he woke up, he had completely forgotten English but could fluently speak Mandarin, a language he had only studied briefly in school. Doctors believe this rare condition, called Foreign Language Syndrome, is caused by brain trauma affecting language processing.",
+      "zh": "澳洲男子本·麥克馬洪在一場嚴重的車禍後陷入昏迷。當他醒來時，他完全忘記了英語，卻能流利地說普通話，而他之前只在學校短暫學習過這門語言。醫生認為這是一種罕見的情況，稱為『外語綜合症』，可能是由於腦部創傷影響了語言處理能力。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Lived Without a Heart",
+      "zh": "沒有心臟卻活著的男人"
+    },
+    "categories": {
+      "en": ["Medical Anomalies", "Artificial Intelligence", "Mythology"],
+      "zh": ["醫學異常", "人工智慧", "神話"]
+    },
+    "correct_category": {
+      "en": ["Medical Anomalies"],
+      "zh": ["醫學異常"]
+    },
+    "explanation": {
+      "en": "In 2011, Craig Lewis, a Texas man, had his failing heart removed and was kept alive with a continuous-flow device. Unlike a normal heart, this device produced no pulse, meaning he was technically alive but without a heartbeat. This groundbreaking technology challenged the traditional definition of life.",
+      "zh": "2011年，美國德州男子克雷格·劉易斯因心臟衰竭被摘除心臟，但透過一種連續流動裝置維持生命。與普通心臟不同，這種裝置不會產生脈搏，這意味著他在技術上仍然活著，但沒有心跳。這項突破性的技術挑戰了人類對生命的傳統定義。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Sinks Every Year",
+      "zh": "每年下沉的小鎮"
+    },
+    "categories": {
+      "en": ["Geology", "Urban Legends", "Engineering Failures"],
+      "zh": ["地質學", "都市傳說", "工程失敗"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "Jakarta, Indonesia, is sinking at a rate of up to 25 cm per year due to excessive groundwater extraction. Scientists predict that by 2050, large parts of the city may be underwater. The government has even proposed relocating the capital to a safer location.",
+      "zh": "印尼首都雅加達由於過度抽取地下水，每年下沉約25公分。科學家預測，到2050年，該城市的大部分地區可能會被水淹沒。政府甚至計劃將首都遷往較安全的地點。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Plant That Screams When You Cut It",
+      "zh": "被割時會尖叫的植物"
+    },
+    "categories": {
+      "en": ["Botany", "Supernatural Phenomena", "Sound Engineering"],
+      "zh": ["植物學", "超自然現象", "聲音工程"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "Recent studies show that some plants emit ultrasonic distress signals when they are damaged or dehydrated. While humans can't hear these sounds, certain animals and insects might detect them. This discovery challenges our understanding of plant communication and survival mechanisms.",
+      "zh": "最新研究顯示，一些植物在受損或缺水時會釋放超聲波求救信號。雖然人類無法聽見這些聲音，但某些動物和昆蟲可能能夠察覺。這項發現挑戰了我們對植物溝通和生存機制的認識。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Hiccuped for 68 Years",
+      "zh": "打嗝68年的男人"
+    },
+    "categories": {
+      "en": ["Medical Anomalies", "World Records", "Neurology"],
+      "zh": ["醫學異常", "世界紀錄", "神經學"]
+    },
+    "correct_category": {
+      "en": ["Medical Anomalies"],
+      "zh": ["醫學異常"]
+    },
+    "explanation": {
+      "en": "Charles Osborne, an American man, started hiccuping in 1922 and didn’t stop for 68 years. He hiccuped around 40 times per minute at the beginning, which later slowed down. His case remains one of the most bizarre and longest-lasting medical conditions ever recorded.",
+      "zh": "美國男子查爾斯·奧斯本從1922年開始打嗝，並持續了68年。他最初每分鐘打嗝約40次，後來頻率逐漸減少。他的案例至今仍然是醫學史上最奇特、持續時間最長的病症之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That’s Always on Fire",
+      "zh": "一直在燃燒的城鎮"
+    },
+    "categories": {
+      "en": ["Geology", "Ghost Towns", "Mining Disasters"],
+      "zh": ["地質學", "鬼城", "礦災"]
+    },
+    "correct_category": {
+      "en": ["Mining Disasters"],
+      "zh": ["礦災"]
+    },
+    "explanation": {
+      "en": "Centralia, Pennsylvania, has been burning since 1962 due to an underground coal mine fire. The fire spread through coal veins, making the town uninhabitable. Despite efforts to put it out, experts estimate it could continue burning for another 250 years.",
+      "zh": "美國賓夕法尼亞州的森特拉利亞鎮自1962年以來一直在燃燒，原因是一場地下煤礦火災。火焰蔓延至煤層，使這座城鎮無法居住。儘管曾多次嘗試撲滅，但專家估計這場火災可能還會持續燃燒250年。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Survived Being Hit by a Meteorite",
+      "zh": "被隕石擊中卻生還的男人"
+    },
+    "categories": {
+      "en": ["Astronomy", "Survival Stories", "Conspiracy Theories"],
+      "zh": ["天文學", "生還故事", "陰謀論"]
+    },
+    "correct_category": {
+      "en": ["Survival Stories"],
+      "zh": ["生還故事"]
+    },
+    "explanation": {
+      "en": "In 1954, Ann Hodges from Alabama became the first known person to be struck by a meteorite. It crashed through her roof and hit her while she was napping, causing only minor injuries. Scientists estimate the odds of this happening to someone are astronomically low.",
+      "zh": "1954年，美國阿拉巴馬州的安·霍奇斯成為已知第一個被隕石擊中的人。隕石穿過屋頂，砸到正在午睡的她，但她僅受輕傷。科學家估計，這種事情發生在人類身上的機率極其渺小。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Library That Sinks When Too Many People Enter",
+      "zh": "人太多就會下沉的圖書館"
+    },
+    "categories": {
+      "en": ["Architecture", "Physics", "Urban Legends"],
+      "zh": ["建築學", "物理學", "都市傳說"]
+    },
+    "correct_category": {
+      "en": ["Architecture"],
+      "zh": ["建築學"]
+    },
+    "explanation": {
+      "en": "The University of Indiana’s main library was rumored to be sinking because engineers forgot to account for the weight of books. While this story is false, similar structural miscalculations have caused real-life building collapses. It highlights the importance of precise architectural planning.",
+      "zh": "印第安納大學的主圖書館據說會因為工程師未考慮書籍的重量而逐漸下沉。雖然這個故事是假的，但類似的結構計算錯誤確實曾導致建築物倒塌。這凸顯了精確建築設計的重要性。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Island Where Cats Outnumber Humans",
+      "zh": "貓比人多的島嶼"
+    },
+    "categories": {
+      "en": ["Geography", "Animal Behavior", "Folklore"],
+      "zh": ["地理學", "動物行為", "民間傳說"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理學"]
+    },
+    "explanation": {
+      "en": "Aoshima, a small island in Japan, is home to hundreds of cats but only a handful of humans. Originally introduced to control the rodent population, the cats thrived and now vastly outnumber the residents. The island has since become a popular tourist destination for cat lovers.",
+      "zh": "日本的小島『青島』擁有數百隻貓，而居民卻寥寥無幾。這些貓最初被引進是為了控制鼠害，但牠們的數量迅速增加，遠超當地居民。如今，這座島已成為貓咪愛好者的熱門旅遊勝地。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Lived in an Airport for 18 Years",
+      "zh": "住在機場18年的男人"
+    },
+    "categories": {
+      "en": ["Human Rights", "Travel", "Immigration Law"],
+      "zh": ["人權", "旅行", "移民法"]
+    },
+    "correct_category": {
+      "en": ["Immigration Law"],
+      "zh": ["移民法"]
+    },
+    "explanation": {
+      "en": "Mehran Karimi Nasseri, an Iranian refugee, lived in Charles de Gaulle Airport in France from 1988 to 2006. He was stuck in legal limbo due to lost documents and was unable to leave or enter another country. His story later inspired the movie 'The Terminal' starring Tom Hanks.",
+      "zh": "伊朗難民梅赫蘭·卡里米·納賽里從1988年到2006年一直住在法國戴高樂機場。他因為文件遺失而陷入法律困境，無法離開或前往其他國家。他的故事後來啟發了湯姆·漢克斯主演的電影《航站情緣》。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Cave That Glows Like a Starry Night",
+      "zh": "像星空一樣發光的洞穴"
+    },
+    "categories": {
+      "en": ["Bioluminescence", "Geology", "Photography"],
+      "zh": ["生物發光", "地質學", "攝影"]
+    },
+    "correct_category": {
+      "en": ["Bioluminescence"],
+      "zh": ["生物發光"]
+    },
+    "explanation": {
+      "en": "The Waitomo Glowworm Caves in New Zealand are home to thousands of glowworms that emit a beautiful blue-green light. These tiny creatures use bioluminescence to attract prey, creating a mesmerizing star-like effect on the cave ceiling. The caves have become one of the most popular natural attractions in the world.",
+      "zh": "紐西蘭懷托摩螢火蟲洞穴內居住著成千上萬隻發光螢火蟲，散發出夢幻般的藍綠色光芒。這些微小生物利用生物發光來吸引獵物，讓洞穴天花板呈現出星空般的景象。這些洞穴已成為世界上最受歡迎的自然景點之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Changes Its Name Every Few Years",
+      "zh": "每隔幾年就改名的小鎮"
+    },
+    "categories": {
+      "en": ["Geography", "Linguistics", "Political History"],
+      "zh": ["地理學", "語言學", "政治歷史"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理學"]
+    },
+    "explanation": {
+      "en": "There is a town in Norway that has changed its name multiple times due to political disputes, historical events, and even tourism marketing strategies. Each new name attempts to reflect a different era of the town’s history, causing confusion for mapmakers and residents alike.",
+      "zh": "在挪威，有一個小鎮因政治爭議、歷史變遷，甚至是觀光行銷的關係，多次更改名稱。每次更名都試圖展現小鎮不同的歷史時期，導致地圖製作者與當地居民經常困惑。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Legally Owns Part of the Moon",
+      "zh": "合法擁有月球土地的男人"
+    },
+    "categories": {
+      "en": ["Space Law", "Real Estate", "Science Fiction"],
+      "zh": ["太空法律", "房地產", "科幻"]
+    },
+    "correct_category": {
+      "en": ["Space Law"],
+      "zh": ["太空法律"]
+    },
+    "explanation": {
+      "en": "An American entrepreneur claimed ownership of parts of the Moon by exploiting a loophole in an old legal treaty. He has since sold ‘lunar real estate’ to thousands of people, including celebrities. However, legal experts argue that celestial bodies cannot be privately owned under international space law.",
+      "zh": "一名美國企業家利用一條老舊法律條約的漏洞，宣稱擁有月球部分土地，甚至向成千上萬的人（包括名人）出售所謂的『月球房地產』。然而，法律專家認為，根據國際太空法，天體不能被私人擁有。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Tree That Grows 40 Different Fruits",
+      "zh": "結出40種不同水果的樹"
+    },
+    "categories": {
+      "en": ["Botany", "Genetic Engineering", "Mythology"],
+      "zh": ["植物學", "基因工程", "神話傳說"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "An artist and scientist developed a tree that can grow 40 different types of stone fruits by using grafting techniques. This single tree produces cherries, plums, peaches, and almonds, creating a natural rainbow of fruits each year. It was originally designed as an art project to showcase biodiversity.",
+      "zh": "一位藝術家兼科學家利用嫁接技術，培育出一棵能結出40種不同核果的樹。這棵樹可以同時長出櫻桃、李子、桃子和杏仁，每年呈現出五顏六色的水果。最初，這項計畫是為了藝術創作，後來成為生物多樣性的象徵。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town Where It Rains Fish",
+      "zh": "會下魚雨的小鎮"
+    },
+    "categories": {
+      "en": ["Meteorology", "Marine Biology", "Folklore"],
+      "zh": ["氣象學", "海洋生物學", "民間傳說"]
+    },
+    "correct_category": {
+      "en": ["Meteorology"],
+      "zh": ["氣象學"]
+    },
+    "explanation": {
+      "en": "In Honduras, the ‘Lluvia de Peces’ (Rain of Fish) phenomenon occurs a few times a year, where fish appear to fall from the sky after heavy storms. Scientists believe this is due to waterspouts lifting fish from nearby rivers and depositing them onto land, but locals see it as a miraculous event.",
+      "zh": "在宏都拉斯，每年幾次會發生『魚雨』（Lluvia de Peces）現象，暴風雨過後，地上會出現大量魚類。科學家認為這是因為水龍捲將附近河流的魚吸入空中再降落，但當地人則視其為神蹟。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Language That Only Two People Speak",
+      "zh": "世界上只有兩個人會說的語言"
+    },
+    "categories": {
+      "en": ["Linguistics", "Cultural Anthropology", "Secret Codes"],
+      "zh": ["語言學", "文化人類學", "秘密代碼"]
+    },
+    "correct_category": {
+      "en": ["Linguistics"],
+      "zh": ["語言學"]
+    },
+    "explanation": {
+      "en": "There is an endangered language spoken by only two elderly individuals who refuse to speak to each other due to a personal feud. Linguists are trying to document and preserve the language, but without reconciliation, it may disappear forever. This highlights the fragile nature of linguistic heritage.",
+      "zh": "有一種瀕臨滅絕的語言，世界上只剩下兩位年長者會說，卻因為私人恩怨而拒絕彼此交談。語言學家正試圖記錄並保存這門語言，但如果兩人無法和解，它可能會永遠消失。這反映了語言遺產的脆弱性。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Village That Communicates by Whistling",
+      "zh": "用口哨溝通的村莊"
+    },
+    "categories": {
+      "en": ["Linguistics", "Music", "Cultural Traditions"],
+      "zh": ["語言學", "音樂", "文化傳統"]
+    },
+    "correct_category": {
+      "en": ["Linguistics"],
+      "zh": ["語言學"]
+    },
+    "explanation": {
+      "en": "In a remote village in the Canary Islands, people use a unique whistling language called 'Silbo Gomero' to communicate across long distances. The whistles mimic spoken words, allowing conversations to take place over valleys and mountains. The tradition has been preserved for centuries and is recognized by UNESCO as an important cultural heritage.",
+      "zh": "在西班牙加那利群島的一個偏遠村莊，人們使用一種名為『Silbo Gomero』的口哨語來溝通。這種語言能模仿人類語言的音調，使對話可以在山谷間傳遞。這項傳統已延續數百年，並被聯合國教科文組織認定為重要的文化遺產。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Library Where You Can Borrow People Instead of Books",
+      "zh": "可以借人而不是書的圖書館"
+    },
+    "categories": {
+      "en": ["Social Experiments", "Psychology", "Library Science"],
+      "zh": ["社會實驗", "心理學", "圖書館學"]
+    },
+    "correct_category": {
+      "en": ["Social Experiments"],
+      "zh": ["社會實驗"]
+    },
+    "explanation": {
+      "en": "In Denmark, a project called 'The Human Library' allows visitors to ‘borrow’ real people with unique life experiences instead of books. These 'human books' share their personal stories to challenge stereotypes and promote understanding. The concept has since spread to other countries as a way to encourage open dialogue.",
+      "zh": "在丹麥，有一個名為『人類圖書館』的計畫，讀者可以『借閱』擁有特殊人生經歷的人，而不是書籍。這些『真人書』透過分享自己的故事來打破刻板印象，促進不同族群的理解。這個概念後來擴展到世界各地，成為一種鼓勵開放對話的方式。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Festival Where People Bathe in Tomato Juice",
+      "zh": "人們泡番茄汁的節日"
+    },
+    "categories": {
+      "en": ["Cultural Festivals", "Food Science", "Sports"],
+      "zh": ["文化節慶", "食品科學", "運動"]
+    },
+    "correct_category": {
+      "en": ["Cultural Festivals"],
+      "zh": ["文化節慶"]
+    },
+    "explanation": {
+      "en": "Every year in Spain, thousands of people gather for 'La Tomatina,' a massive tomato fight where participants throw over 100 metric tons of tomatoes at each other. The event originated from a random food fight in the 1940s and has since become one of the world's most famous festivals. The acidity of the tomatoes is said to be good for the skin, making it an unusual yet refreshing tradition.",
+      "zh": "每年在西班牙，成千上萬的人聚集參加『番茄大戰節』（La Tomatina），大家互相投擲超過100噸番茄。這個活動起源於1940年代的一場意外食物戰爭，如今已成為世界著名的節慶之一。據說番茄的酸性對皮膚有好處，使這場瘋狂的節日變得既奇特又有趣。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Mysterious Sound That No One Can Locate",
+      "zh": "無法定位的神秘聲音"
+    },
+    "categories": {
+      "en": ["Unexplained Phenomena", "Acoustics", "Psychology"],
+      "zh": ["未解之謎", "聲學", "心理學"]
+    },
+    "correct_category": {
+      "en": ["Unexplained Phenomena"],
+      "zh": ["未解之謎"]
+    },
+    "explanation": {
+      "en": "In certain places around the world, a mysterious low-frequency hum can be heard by some people, but not others. Known as 'The Hum,' this unexplained noise has been reported for decades, with theories ranging from industrial machinery to secret government experiments. However, no definitive source has ever been found.",
+      "zh": "在世界上的某些地方，有些人會聽到一種低頻的神秘嗡嗡聲，而其他人卻完全無感。這種現象被稱為『嗡嗡聲』（The Hum），數十年來一直無法解釋，理論包括工業機械噪音、地質活動，甚至是政府的秘密實驗。然而，至今仍無法確定聲音的真正來源。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Cave That Glows Like the Night Sky",
+      "zh": "發光如夜空的洞穴"
+    },
+    "categories": {
+      "en": ["Natural Wonders", "Bioluminescence", "Geology"],
+      "zh": ["自然奇觀", "生物發光", "地質學"]
+    },
+    "correct_category": {
+      "en": ["Natural Wonders"],
+      "zh": ["自然奇觀"]
+    },
+    "explanation": {
+      "en": "In New Zealand, the Waitomo Glowworm Caves are illuminated by thousands of bioluminescent glowworms that create a mesmerizing star-like effect on the cave ceiling. These tiny creatures produce light to attract prey and mates, turning the caves into an otherworldly spectacle. The glowworm species is unique to New Zealand and thrives in the damp, dark environment.",
+      "zh": "在紐西蘭，懷托摩螢火蟲洞穴內部閃爍著數千隻發光螢火蟲，形成如同星空般的奇幻景象。這些微小生物透過發光來吸引獵物和配偶，使洞穴看起來宛如另一個世界。這種螢火蟲是紐西蘭特有的物種，適應潮濕黑暗的環境。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Island Where No One Can Set Foot",
+      "zh": "無人能踏足的島嶼"
+    },
+    "categories": {
+      "en": ["Geography", "Anthropology", "Marine Biology"],
+      "zh": ["地理學", "人類學", "海洋生物學"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理學"]
+    },
+    "explanation": {
+      "en": "North Sentinel Island in the Indian Ocean is home to an uncontacted indigenous tribe that violently resists outside visitors. The Indian government has banned all travel to the island to protect both the tribe and outsiders from potential disease transmission. The Sentinelese people have lived in isolation for thousands of years.",
+      "zh": "北哨兵島位於印度洋，是一個未與外界接觸的原住民族的家園，他們強烈排斥外來訪客。印度政府已禁止所有前往該島的旅行，以保護當地部落和外來者免於疾病傳播的風險。哨兵族人已經在孤立狀態下生活了數千年。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Secret Society That Only Exists One Day a Year",
+      "zh": "一年只存在一天的秘密社團"
+    },
+    "categories": {
+      "en": ["History", "Mysticism", "Social Experiments"],
+      "zh": ["歷史", "神秘學", "社會實驗"]
+    },
+    "correct_category": {
+      "en": ["Mysticism"],
+      "zh": ["神秘學"]
+    },
+    "explanation": {
+      "en": "In a small European town, a mysterious group gathers once a year in an undisclosed location to perform ancient rituals. The society has no permanent members, and invitations are said to be sent at random. The true purpose of the gathering remains unknown, fueling speculation and conspiracy theories.",
+      "zh": "在歐洲的一個小鎮裡，每年有一個神秘團體會在某個隱秘地點聚集，進行古老儀式。該組織沒有固定成員，據說邀請函是隨機寄出的。他們聚會的真正目的至今仍是謎，引發了無數的陰謀論和猜測。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That’s Always Christmas",
+      "zh": "永遠是聖誕節的小鎮"
+    },
+    "categories": {
+      "en": ["Festivals", "Tourism", "Urban Planning"],
+      "zh": ["節慶", "觀光", "城市規劃"]
+    },
+    "correct_category": {
+      "en": ["Festivals"],
+      "zh": ["節慶"]
+    },
+    "explanation": {
+      "en": "In the town of Santa Claus, Indiana, Christmas never ends. The streets are decorated year-round, Santa-themed attractions draw visitors, and even the local post office replies to children's letters to Santa. The town has fully embraced its festive identity, making it a unique tourist destination.",
+      "zh": "在美國印第安納州的聖誕老人鎮，聖誕節從未結束。街道全年裝飾著聖誕裝飾，聖誕主題的景點吸引了無數遊客，甚至當地郵局還會回信給寄給聖誕老人的孩子們。這座小鎮完全擁抱了自己的節慶特色，成為獨特的旅遊勝地。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Museum That Only Opens Once Every 100 Years",
+      "zh": "每100年才開一次的博物館"
+    },
+    "categories": {
+      "en": ["History", "Time Capsules", "Art"],
+      "zh": ["歷史", "時間膠囊", "藝術"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "A secret museum hidden in France is designed to open only once every 100 years. The collection inside remains a mystery, and very few people alive today know what’s inside. The museum's last opening was in the early 1900s, and the next viewing is scheduled for the 22nd century.",
+      "zh": "在法國有一座神秘博物館，設計上每100年才開放一次。裡面的藏品仍然是個謎，現今只有極少數人知道其中的秘密。上一次開放是在20世紀初，而下一次開放將在22世紀。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The River That Boils Animals Alive",
+      "zh": "能把動物活活煮熟的河流"
+    },
+    "categories": {
+      "en": ["Geology", "Mythology", "Environmental Science"],
+      "zh": ["地質學", "神話傳說", "環境科學"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "In the Amazon rainforest, there is a mysterious boiling river that reaches temperatures hot enough to cook animals that fall into it. Scientists believe it is heated by underground geothermal activity, but the exact source remains debated. The river was once thought to be a myth until explorers confirmed its existence.",
+      "zh": "在亞馬遜雨林，有一條神秘的沸騰河流，溫度高得足以將掉入水中的動物活活煮熟。科學家認為這條河是由地下地熱活動加熱的，但確切的來源仍存在爭議。這條河流曾被認為是神話，直到探險家親自證實它的存在。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Man Who Survived Both Atomic Bombs",
+      "zh": "兩次原子彈爆炸都倖存的男人"
+    },
+    "categories": {
+      "en": ["History", "Survival Stories", "War"],
+      "zh": ["歷史", "生存故事", "戰爭"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "Tsutomu Yamaguchi was in Hiroshima when the first atomic bomb was dropped, and after surviving, he traveled to Nagasaki—where he experienced the second bombing. Despite the extreme circumstances, he lived into his 90s, becoming a symbol of resilience and a vocal advocate for nuclear disarmament.",
+      "zh": "山口彊在廣島經歷了第一次原子彈爆炸，奇蹟生還後，他前往長崎，卻又遇上了第二次爆炸。儘管經歷了這種極端情況，他仍然活到了90多歲，成為堅韌的象徵，並積極倡導核裁軍。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Animal That Can Survive in Space",
+      "zh": "能在太空生存的動物"
+    },
+    "categories": {
+      "en": ["Biology", "Astrobiology", "Science Fiction"],
+      "zh": ["生物學", "太空生物學", "科幻"]
+    },
+    "correct_category": {
+      "en": ["Biology"],
+      "zh": ["生物學"]
+    },
+    "explanation": {
+      "en": "Tardigrades, also known as water bears, are microscopic creatures that can survive in the vacuum of space. They can endure extreme radiation, temperatures, and even being completely dehydrated for decades. Scientists study them to understand the potential for life in extreme environments beyond Earth.",
+      "zh": "緩步動物，又稱水熊蟲，是一種微小的生物，能夠在真空的太空中生存。它們能承受極端的輻射、溫度，甚至可以在完全脫水的狀態下存活數十年。科學家研究它們，以探索地球以外極端環境下生命的可能性。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Library With No Books",
+      "zh": "沒有書的圖書館"
+    },
+    "categories": {
+      "en": ["Technology", "Architecture", "Education"],
+      "zh": ["科技", "建築", "教育"]
+    },
+    "correct_category": {
+      "en": ["Technology"],
+      "zh": ["科技"]
+    },
+    "explanation": {
+      "en": "There exists a library where no physical books are stored—only digital screens displaying an extensive collection of e-books. Patrons check out digital files instead of printed materials, making it a completely paperless learning environment. This innovative approach is meant to save space and increase accessibility.",
+      "zh": "有一座圖書館，裡面沒有任何實體書籍，只有顯示電子書的數位螢幕。讀者借閱的不是紙本，而是數位文件，使其成為完全無紙化的學習環境。這種創新方式旨在節省空間並提升可及性。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Hotel Run Entirely by Robots",
+      "zh": "完全由機器人經營的飯店"
+    },
+    "categories": {
+      "en": ["Hospitality", "Technology", "Futurism"],
+      "zh": ["旅遊業", "科技", "未來學"]
+    },
+    "correct_category": {
+      "en": ["Technology"],
+      "zh": ["科技"]
+    },
+    "explanation": {
+      "en": "In Japan, there is a hotel where the receptionists, cleaners, and even the bellhops are all robots. The robotic staff can check guests in, carry luggage, and even provide room service. This experiment aims to demonstrate the potential of automation in the hospitality industry.",
+      "zh": "在日本，有一家飯店的接待人員、清潔人員，甚至行李員都是機器人。這些機器人可以辦理入住、搬運行李，甚至提供客房服務。這項實驗旨在展示自動化在旅遊業的潛力。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The City That Banned Death",
+      "zh": "禁止死亡的城市"
+    },
+    "categories": {
+      "en": ["Laws", "Mysticism", "History"],
+      "zh": ["法律", "神秘學", "歷史"]
+    },
+    "correct_category": {
+      "en": ["Laws"],
+      "zh": ["法律"]
+    },
+    "explanation": {
+      "en": "In the town of Longyearbyen, Norway, it is technically illegal to die. Due to the extreme cold, bodies do not decompose properly, so people who are terminally ill must leave the town before passing away. This law is one of the most unusual legal policies in the world.",
+      "zh": "在挪威的朗伊爾城，技術上來說『死亡』是非法的。由於極端寒冷，屍體無法正常分解，因此身患絕症的人必須在臨終前離開小鎮。這項法律是世界上最奇特的法規之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Village Where Twins Are Born at an Unbelievable Rate",
+      "zh": "雙胞胎出生率驚人的村莊"
+    },
+    "categories": {
+      "en": ["Genetics", "Folklore", "Demographics"],
+      "zh": ["遺傳學", "民間傳說", "人口統計"]
+    },
+    "correct_category": {
+      "en": ["Genetics"],
+      "zh": ["遺傳學"]
+    },
+    "explanation": {
+      "en": "In Kodinhi, India, an abnormally high number of twins are born compared to the global average. Scientists suspect genetic or environmental factors may be responsible, but the exact reason remains unknown. The village has become a subject of fascination for researchers worldwide.",
+      "zh": "在印度的科丁希村，雙胞胎的出生率遠高於全球平均水平。科學家懷疑遺傳或環境因素可能是原因，但確切的解釋仍未被發現。這個村莊成為全球研究人員關注的對象。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Painting That Ages Instead of Its Owner",
+      "zh": "替主人變老的畫像"
+    },
+    "categories": {
+      "en": ["Literature", "Art", "Mythology"],
+      "zh": ["文學", "藝術", "神話"]
+    },
+    "correct_category": {
+      "en": ["Literature"],
+      "zh": ["文學"]
+    },
+    "explanation": {
+      "en": "Oscar Wilde’s novel 'The Picture of Dorian Gray' tells the story of a man whose portrait ages while he remains young. The book explores themes of vanity, morality, and the supernatural. Some believe similar cursed paintings exist in real life.",
+      "zh": "奧斯卡·王爾德的小說《道林·格雷的畫像》描述了一個男人，他的畫像會隨著時間變老，而本人卻維持年輕。這本書探討了虛榮、道德和超自然的主題。有些人相信，現實中可能存在類似的詛咒畫像。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Underground City Built to Escape the End of the World",
+      "zh": "為了躲避世界末日而建的地下城"
+    },
+    "categories": {
+      "en": ["History", "Survival", "Architecture"],
+      "zh": ["歷史", "生存", "建築"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "Derinkuyu, an underground city in Turkey, was built thousands of years ago to protect people from invaders and disasters. It could house thousands of residents, complete with ventilation systems and food storage. Some believe similar underground cities could be used in the future for global catastrophes.",
+      "zh": "土耳其的地下城德林庫尤建於數千年前，目的是讓人們躲避入侵者和災難。這座城市可以容納數千人，並配備通風系統和食物儲存空間。有些人認為，未來可能會建造類似的地下城市來應對全球災難。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Festival Where People Let Go of Their Bad Luck",
+      "zh": "專門擺脫厄運的節日"
+    },
+    "categories": {
+      "en": ["Culture", "Festivals", "Superstition"],
+      "zh": ["文化", "節慶", "迷信"]
+    },
+    "correct_category": {
+      "en": ["Festivals"],
+      "zh": ["節慶"]
+    },
+    "explanation": {
+      "en": "The 'Hadaka Matsuri' festival in Japan is famous for men wearing loincloths while fighting to grab a sacred stick. It is believed that the one who gets it will receive good luck, while others symbolically transfer their bad luck away. The festival has existed for centuries.",
+      "zh": "日本的『裸祭』以男性僅穿著兜襠布，爭搶神聖木棒而聞名。據說獲得木棒的人會得到好運，而其他人則象徵性地擺脫厄運。這個節日已有數百年的歷史。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Musical Instrument That Plays Itself",
+      "zh": "會自己演奏的樂器"
+    },
+    "categories": {
+      "en": ["Music", "Technology", "Mythology"],
+      "zh": ["音樂", "科技", "神話"]
+    },
+    "correct_category": {
+      "en": ["Technology"],
+      "zh": ["科技"]
+    },
+    "explanation": {
+      "en": "The Theremin is an instrument that is played without being touched. It generates eerie electronic sounds when a performer moves their hands near its antennas. It was one of the first electronic instruments and is often associated with sci-fi soundtracks.",
+      "zh": "特雷門琴是一種不需要接觸就能演奏的樂器。當演奏者在天線附近移動手部時，它會產生奇特的電子音。這是最早的電子樂器之一，常用於科幻電影的配樂。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Eternal Flame That Burns Under a Waterfall",
+      "zh": "瀑布下燃燒不滅的火焰"
+    },
+    "categories": {
+      "en": ["Geology", "Supernatural", "Mythology"],
+      "zh": ["地質學", "超自然", "神話"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "In New York’s Chestnut Ridge Park, a small natural gas leak fuels an eternal flame under a waterfall. The flame stays lit despite the water constantly pouring over it. Some believe it has mystical origins, but scientists confirm it is due to natural gas emissions.",
+      "zh": "在美國紐約的栗子嶺公園，一個天然氣洩漏點使得瀑布下燃燒著不滅的火焰。儘管水流不斷沖刷，火焰依然持續燃燒。一些人認為這具有神秘力量，但科學家證實這是天然氣逸出所造成的現象。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Sound Nobody Can Explain",
+      "zh": "無法解釋的神秘聲音"
+    },
+    "categories": {
+      "en": ["Mystery", "Physics", "Paranormal"],
+      "zh": ["神秘現象", "物理學", "超自然"]
+    },
+    "correct_category": {
+      "en": ["Mystery"],
+      "zh": ["神秘現象"]
+    },
+    "explanation": {
+      "en": "The 'Bloop' is a deep-sea sound detected in 1997 that was one of the loudest underwater noises ever recorded. Scientists initially thought it could be a massive sea creature, but later suggested it might be icebergs breaking apart. However, some still believe it remains unexplained.",
+      "zh": "『深海巨響』（Bloop）是1997年探測到的一種海底聲音，為歷史上記錄到最響亮的水下聲音之一。科學家最初認為可能是巨型海洋生物，但後來推測可能是冰山碎裂。然而，一些人仍然認為這個聲音未被完全解釋。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Disappeared Overnight",
+      "zh": "一夜之間消失的城鎮"
+    },
+    "categories": {
+      "en": ["History", "Conspiracy", "Geography"],
+      "zh": ["歷史", "陰謀論", "地理"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "There are legends of entire towns vanishing without a trace, such as Hoer Verde in Brazil, where an entire population reportedly disappeared overnight. While some attribute this to mass migration, others suggest supernatural causes or secret military experiments.",
+      "zh": "有些傳說描述整個城鎮一夜之間憑空消失，例如巴西的霍爾維爾德小鎮，據稱整個人口在一夜之間消失無蹤。雖然有人認為這是大規模遷徙的結果，但也有陰謀論者認為這與超自然現象或秘密軍事實驗有關。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Statue That Moves on Its Own",
+      "zh": "會自己移動的雕像"
+    },
+    "categories": {
+      "en": ["Mythology", "Archaeology", "Physics"],
+      "zh": ["神話", "考古學", "物理學"]
+    },
+    "correct_category": {
+      "en": ["Archaeology"],
+      "zh": ["考古學"]
+    },
+    "explanation": {
+      "en": "In an Egyptian museum, a 4,000-year-old statue was caught on camera slowly rotating in its glass case without anyone touching it. Some believe it is haunted, while scientists suggest vibrations from foot traffic cause the movement.",
+      "zh": "在埃及的一座博物館中，一尊擁有4000年歷史的雕像被監視器拍到在玻璃展示櫃內慢慢旋轉，卻沒有人碰過它。一些人認為它被詛咒，而科學家則推測這是由於地板震動所導致的現象。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Prison Where Inmates Hold the Keys",
+      "zh": "犯人持有鑰匙的監獄"
+    },
+    "categories": {
+      "en": ["Crime", "Psychology", "Society"],
+      "zh": ["犯罪", "心理學", "社會"]
+    },
+    "correct_category": {
+      "en": ["Society"],
+      "zh": ["社會"]
+    },
+    "explanation": {
+      "en": "In the Halden Prison in Norway, inmates are given keys to their own cells and enjoy a comfortable environment with private rooms, TVs, and kitchens. The system focuses on rehabilitation rather than punishment, leading to one of the lowest recidivism rates in the world.",
+      "zh": "在挪威的哈爾登監獄，犯人擁有自己牢房的鑰匙，並享有私人房間、電視和廚房等設施。這種監獄制度強調的是矯正而非懲罰，使得挪威擁有全球最低的再犯率之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Bridge That Sings When You Drive On It",
+      "zh": "開車時會唱歌的橋"
+    },
+    "categories": {
+      "en": ["Engineering", "Music", "Physics"],
+      "zh": ["工程學", "音樂", "物理學"]
+    },
+    "correct_category": {
+      "en": ["Engineering"],
+      "zh": ["工程學"]
+    },
+    "explanation": {
+      "en": "The Musical Highway in New Mexico is a stretch of road where grooves in the pavement play 'America the Beautiful' when cars drive over it at the right speed. Engineers designed it by precisely carving grooves at different intervals to create musical notes.",
+      "zh": "在美國新墨西哥州的『音樂公路』上，當汽車以特定速度行駛時，路面上的刻痕會播放出《美麗的美國》。工程師透過精準雕刻不同間隔的刻痕來產生音符，使得整條道路成為一個獨特的音樂體驗。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Ghost Ship That Appears Every 50 Years",
+      "zh": "每50年出現一次的幽靈船"
+    },
+    "categories": {
+      "en": ["Mythology", "History", "Oceanography"],
+      "zh": ["神話", "歷史", "海洋學"]
+    },
+    "correct_category": {
+      "en": ["Mythology"],
+      "zh": ["神話"]
+    },
+    "explanation": {
+      "en": "The legend of the Flying Dutchman tells of a ghost ship doomed to sail the seas forever. Some sailors claim to have seen it appearing through mist once every 50 years. While many dismiss it as a myth, others speculate it is a mirage caused by light refraction over the ocean.",
+      "zh": "『飛翔的荷蘭人』幽靈船的傳說描述了一艘注定要在海上永遠航行的詭異船隻。有些水手聲稱，每50年它會在霧中出現一次。雖然許多人認為這是虛構的傳說，但也有人猜測它可能是海上光線折射產生的海市蜃樓現象。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Tree That Bleeds When Cut",
+      "zh": "被砍時會流血的樹"
+    },
+    "categories": {
+      "en": ["Botany", "Folklore", "Alchemy"],
+      "zh": ["植物學", "民間傳說", "鍊金術"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "The Dragon’s Blood Tree, found in Socotra, produces a deep red sap that looks like blood when the bark is cut. This sap has been used for centuries in medicine, dye, and even ancient rituals. Some legends say it comes from the blood of dragons.",
+      "zh": "在索科特拉島發現的『龍血樹』，當樹皮被割開時會流出類似鮮血的深紅色汁液。這種樹液在數百年來被用於藥物、染料，甚至古老的儀式中。一些傳說認為，這些汁液來自龍的鮮血。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Lake That Turns Animals Into Stone",
+      "zh": "會將動物變成石頭的湖"
+    },
+    "categories": {
+      "en": ["Geology", "Biology", "Supernatural"],
+      "zh": ["地質學", "生物學", "超自然"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "Lake Natron in Tanzania has a high alkaline content, which preserves dead animals and gives them a petrified appearance. The water’s pH is so high that it can burn human skin. The lake gets its unique properties from volcanic activity in the area.",
+      "zh": "坦尚尼亞的納特龍湖擁有極高的鹼性，使湖中的死去動物保持完整，呈現石化外觀。湖水的pH值高到足以灼傷人類皮膚。這座湖的特性來自附近火山活動所產生的礦物質。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Cloud That Rained Fish",
+      "zh": "下魚的雲"
+    },
+    "categories": {
+      "en": ["Weather", "Science", "Mythology"],
+      "zh": ["天氣", "科學", "神話"]
+    },
+    "correct_category": {
+      "en": ["Weather"],
+      "zh": ["天氣"]
+    },
+    "explanation": {
+      "en": "In a rare meteorological event in 2010, a cloud in the Philippines caused fish to rain down from the sky. This phenomenon occurs when strong updrafts pick up small fish from bodies of water and carry them into the air, where they fall back down due to gravity.",
+      "zh": "2010年，菲律賓發生了一個罕見的氣象現象，一朵雲使魚從天而降。這種現象發生在強烈的上升氣流將水中的小魚捲起，並將它們帶入空中，最終因重力回落到地面。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Sleeps for Months",
+      "zh": "睡上幾個月的小鎮"
+    },
+    "categories": {
+      "en": ["Culture", "Psychology", "Geography"],
+      "zh": ["文化", "心理學", "地理"]
+    },
+    "correct_category": {
+      "en": ["Psychology"],
+      "zh": ["心理學"]
+    },
+    "explanation": {
+      "en": "In the town of Longyearbyen in Norway, residents live under a constant state of darkness for months during the winter due to the polar night. The lack of sunlight causes significant shifts in the mental health and behavior of the people, leading to unique community dynamics during this period.",
+      "zh": "在挪威的長年伯耶小鎮，居民在冬季的極夜期間生活在持續的黑暗中，這段時間可長達幾個月。缺乏陽光會對人們的心理健康和行為造成重大影響，從而導致這段期間獨特的社會動態。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Hole in the Ground That Doesn't Fill Up",
+      "zh": "無法填滿的地洞"
+    },
+    "categories": {
+      "en": ["Geology", "Physics", "Mystery"],
+      "zh": ["地質學", "物理學", "神秘"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "In the town of Ellsworth, Maine, there is a mysterious sinkhole known as 'The Bottomless Pit'. No matter how much debris or water is poured into the hole, it never fills up. Some locals attribute it to supernatural forces, but scientists believe it may be connected to an underground cave system.",
+      "zh": "在美國緬因州的艾爾斯沃斯小鎮，有一個神秘的地坑被稱為『無底洞』。無論投入多少碎片或水，這個洞似乎永遠無法填滿。一些當地人將其歸因於超自然力量，但科學家認為它可能與地下洞穴系統有關。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town Where Time Runs Backwards",
+      "zh": "時間倒流的小鎮"
+    },
+    "categories": {
+      "en": ["Science", "Mythology", "History"],
+      "zh": ["科學", "神話", "歷史"]
+    },
+    "correct_category": {
+      "en": ["Mythology"],
+      "zh": ["神話"]
+    },
+    "explanation": {
+      "en": "In the small village of Hallstatt, Austria, it is said that the people are living in reverse. Some claim that time flows backward in this town, as stories and legends are passed down from future generations. Though it is widely considered a myth, some local artists use time manipulation as an inspiration for their works.",
+      "zh": "在奧地利的小村莊哈爾斯塔特，有人說這裡的人們生活在倒退的時間中。有些人聲稱在這個小鎮上，時間會倒流，未來世代的故事和傳說會被傳遞下來。儘管這被普遍認為是神話，但一些當地藝術家卻以時間操控為創作靈感。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Lighthouse That Turns Into a Giant Octopus",
+      "zh": "變成巨大章魚的燈塔"
+    },
+    "categories": {
+      "en": ["Mythology", "Science Fiction", "Architecture"],
+      "zh": ["神話", "科幻", "建築"]
+    },
+    "correct_category": {
+      "en": ["Mythology"],
+      "zh": ["神話"]
+    },
+    "explanation": {
+      "en": "The Lighthouse of the Sea, located off the coast of Japan, is rumored to turn into a giant octopus at night. This myth tells of an ancient creature that once protected sailors from storms but was transformed by magic into a lighthouse that still guides ships today.",
+      "zh": "位於日本海岸的海之燈塔據說在夜間會變成一隻巨大章魚。這個傳說講述了一個古老的生物，曾經保護水手免受暴風雨的侵襲，但被魔法變成了燈塔，至今仍然為船隻指引航道。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Fruit That Tastes Like Chocolate",
+      "zh": "像巧克力一樣的水果"
+    },
+    "categories": {
+      "en": ["Botany", "Food", "Science"],
+      "zh": ["植物學", "食物", "科學"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "The 'Black Sapote', also known as the 'chocolate pudding fruit', is a tropical fruit that has a creamy, chocolate-like taste when ripe. It is often used in desserts and smoothies as a healthier alternative to chocolate. Despite its unusual flavor, it is a completely natural fruit.",
+      "zh": "『黑棗』，也被稱為『巧克力布丁果』，是一種熱帶水果，成熟時有著像巧克力一樣的奶油口感。它常被用來製作甜點和冰沙，作為巧克力的健康替代品。儘管其味道獨特，但這是一種完全天然的水果。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Radioactive Beach That Glows at Night",
+      "zh": "夜間會發光的放射性沙灘"
+    },
+    "categories": {
+      "en": ["Science", "Geology", "Mythology"],
+      "zh": ["科學", "地質學", "神話"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "The beaches of Vaadhoo, in the Maldives, glow at night due to bioluminescent plankton in the water. These plankton emit light when disturbed, creating a beautiful and surreal effect. Although some people mistakenly believe it is radioactive, it is a natural phenomenon.",
+      "zh": "馬爾地夫的瓦杜島沙灘在夜間會發光，這是由於水中的發光浮游生物。當這些浮游生物受到干擾時，會釋放光芒，創造出美麗而超現實的效果。儘管一些人誤以為這是放射性現象，但實際上它是自然現象。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The City That Shuts Down When It Rains",
+      "zh": "下雨時整座城市都關閉"
+    },
+    "categories": {
+      "en": ["Culture", "History", "Engineering"],
+      "zh": ["文化", "歷史", "工程學"]
+    },
+    "correct_category": {
+      "en": ["Culture"],
+      "zh": ["文化"]
+    },
+    "explanation": {
+      "en": "In the city of Tokyo, Japan, certain areas completely shut down during heavy rain due to their intricate drainage systems. The reason behind this is to prevent flooding and to make the city safer for pedestrians and drivers.",
+      "zh": "在日本東京，某些區域在大雨中會完全關閉，這是因為當地有複雜的排水系統。這樣做的原因是為了防止洪水，並確保市區行人和駕駛員的安全。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Ancient Map That Shows Uncharted Lands",
+      "zh": "顯示未知土地的古老地圖"
+    },
+    "categories": {
+      "en": ["History", "Mystery", "Geography"],
+      "zh": ["歷史", "神秘", "地理"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "The Piri Reis map, created in 1513, shows parts of the world that were not yet explored by European explorers, including parts of Antarctica. Some believe it was made using ancient knowledge lost to time, though scholars suggest it could have been based on earlier sea charts.",
+      "zh": "由1513年製作的皮里·雷伊斯地圖顯示了歐洲探險家尚未探索的世界部分，包括南極洲的一部分。有人認為這張地圖是基於失落的古代知識製作的，但學者們則認為它可能基於早期的海圖。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Island That Disappears and Reappears",
+      "zh": "消失又重現的島嶼"
+    },
+    "categories": {
+      "en": ["Geography", "Mythology", "Science"],
+      "zh": ["地理", "神話", "科學"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理"]
+    },
+    "explanation": {
+      "en": "Bermeja was a small island recorded on old maps of the Gulf of Mexico, but it mysteriously vanished. Some believe it was a cartographer’s mistake, while others think it was submerged due to rising sea levels or even secretly destroyed for geopolitical reasons.",
+      "zh": "貝梅哈島曾出現在古地圖上，位於墨西哥灣，但後來神秘消失。有人認為這是製圖師的錯誤，也有人猜測它因海平面上升而被淹沒，甚至有陰謀論說它被秘密摧毀以掩蓋某些政治目的。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Plant That Smells Like a Rotting Corpse",
+      "zh": "聞起來像腐爛屍體的植物"
+    },
+    "categories": {
+      "en": ["Botany", "Chemistry", "Folklore"],
+      "zh": ["植物學", "化學", "民間傳說"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "The Titan Arum, also known as the 'corpse flower,' emits a foul odor similar to rotting flesh to attract pollinators like carrion beetles. It blooms infrequently, making each flowering event a major attraction for botanists and curious visitors.",
+      "zh": "大王花，又稱『屍臭花』，會散發類似腐爛屍體的惡臭，以吸引食腐甲蟲等傳粉昆蟲。它的花期極為罕見，每次開花都成為植物學家和遊客爭相觀賞的奇景。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Bans Death",
+      "zh": "禁止死亡的城鎮"
+    },
+    "categories": {
+      "en": ["Law", "Philosophy", "Geography"],
+      "zh": ["法律", "哲學", "地理"]
+    },
+    "correct_category": {
+      "en": ["Law"],
+      "zh": ["法律"]
+    },
+    "explanation": {
+      "en": "In Longyearbyen, Norway, it is illegal to die because the permafrost prevents bodies from decomposing. If someone is terminally ill, they must be transported elsewhere. This law is meant to prevent the spread of diseases from frozen corpses.",
+      "zh": "在挪威的朗伊爾城，死亡是非法的，因為永凍層會防止屍體分解。如果有人病危，他們必須被送往其他地方去世。這項法律的目的是防止凍結的屍體成為傳染病的溫床。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Bird That Can Mimic a Chainsaw",
+      "zh": "會模仿電鋸聲音的鳥"
+    },
+    "categories": {
+      "en": ["Ornithology", "Technology", "Psychology"],
+      "zh": ["鳥類學", "科技", "心理學"]
+    },
+    "correct_category": {
+      "en": ["Ornithology"],
+      "zh": ["鳥類學"]
+    },
+    "explanation": {
+      "en": "The lyrebird, native to Australia, is capable of mimicking almost any sound, including chainsaws, camera shutters, and even human speech. This ability helps it impress potential mates and adapt to its noisy environment.",
+      "zh": "澳洲特有的琴鳥能模仿幾乎任何聲音，包括電鋸、相機快門，甚至人類語言。這項能力幫助它在求偶時吸引伴侶，也讓它能適應嘈雜的環境。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Town That Sinks a Little Every Year",
+      "zh": "每年都在下沉的城市"
+    },
+    "categories": {
+      "en": ["Geology", "Urban Planning", "History"],
+      "zh": ["地質學", "城市規劃", "歷史"]
+    },
+    "correct_category": {
+      "en": ["Geology"],
+      "zh": ["地質學"]
+    },
+    "explanation": {
+      "en": "Jakarta, the capital of Indonesia, is sinking at an alarming rate due to excessive groundwater extraction. Some parts of the city have sunk over 2.5 meters in the past 30 years, leading to plans for relocating the capital to another island.",
+      "zh": "印尼首都雅加達因為過度抽取地下水而以驚人速度下沉。過去30年來，部分地區已下沉超過2.5公尺，導致政府計劃將首都遷移到另一座島嶼。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Clock That Will Run for 10,000 Years",
+      "zh": "將運行一萬年的時鐘"
+    },
+    "categories": {
+      "en": ["Engineering", "Futurology", "Philosophy"],
+      "zh": ["工程學", "未來學", "哲學"]
+    },
+    "correct_category": {
+      "en": ["Engineering"],
+      "zh": ["工程學"]
+    },
+    "explanation": {
+      "en": "The 10,000 Year Clock, funded by Jeff Bezos, is designed to keep time for ten millennia. Built deep inside a mountain, it aims to encourage long-term thinking and sustainability.",
+      "zh": "由傑夫·貝佐斯資助的一萬年時鐘被設計來運行整整十個千年。這座時鐘被安置在深山內，目的是激發人類對長遠未來的思考與可持續發展。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Fish That Can Survive Being Frozen",
+      "zh": "能夠在冰凍狀態下存活的魚"
+    },
+    "categories": {
+      "en": ["Biology", "Chemistry", "Survival"],
+      "zh": ["生物學", "化學", "生存"]
+    },
+    "correct_category": {
+      "en": ["Biology"],
+      "zh": ["生物學"]
+    },
+    "explanation": {
+      "en": "The Antarctic icefish has special proteins in its blood that act like antifreeze, preventing ice crystals from forming inside its body. This adaptation allows it to survive in subzero waters where most other fish would die.",
+      "zh": "南極冰魚的血液中含有特殊的抗凍蛋白，能夠防止體內形成冰晶。這種適應能力使它能夠在零下的極端環境中存活，而其他大多數魚類都無法生存。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Place Where It Rains Fish",
+      "zh": "會下魚雨的地方"
+    },
+    "categories": {
+      "en": ["Meteorology", "Mythology", "Geography"],
+      "zh": ["氣象學", "神話", "地理"]
+    },
+    "correct_category": {
+      "en": ["Meteorology"],
+      "zh": ["氣象學"]
+    },
+    "explanation": {
+      "en": "In Yoro, Honduras, a strange weather phenomenon known as 'Lluvia de Peces' (Rain of Fish) occurs annually. Scientists believe strong waterspouts lift fish from nearby waters and drop them inland during heavy storms.",
+      "zh": "在宏都拉斯的約羅，每年都會發生稱為『魚雨』的奇特氣象現象。科學家認為這是強烈水龍捲將水中的魚吸起，並在暴風雨中降落到陸地上所造成的。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Mountain That Moves Every Year",
+      "zh": "每年移動的山"
+    },
+    "categories": {
+      "en": ["Geography", "Mythology", "Science"],
+      "zh": ["地理", "神話", "科學"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理"]
+    },
+    "explanation": {
+      "en": "There is a mountain in China known as 'The Rolling Mountain', which appears to move slightly every year due to erosion and shifting tectonic plates. Local legends tell of a dragon moving the mountain with its tail, but geologists attribute it to natural geological processes.",
+      "zh": "在中國有一座山被稱為『滾動山』，它每年都會因為侵蝕和板塊運動而稍微移動。當地的傳說說這座山是由一條龍用尾巴移動的，但地質學家將其歸因於自然的地質過程。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Fish That Can Walk on Land",
+      "zh": "能在陸地上行走的魚"
+    },
+    "categories": {
+      "en": ["Science", "Zoology", "Mythology"],
+      "zh": ["科學", "動物學", "神話"]
+    },
+    "correct_category": {
+      "en": ["Zoology"],
+      "zh": ["動物學"]
+    },
+    "explanation": {
+      "en": "The mudskipper, a type of fish found in coastal regions, has evolved to move on land. It uses its pectoral fins to 'walk' across the mud, making it one of the few fish capable of surviving on land for extended periods.",
+      "zh": "泥鰍是一種發現於沿海地區的魚類，它已經進化出能在陸地上移動的能力。它利用胸鰭在泥土上『行走』，使其成為少數幾種能在陸地上生存長時間的魚類之一。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Tree That Grows in Reverse",
+      "zh": "倒生的樹"
+    },
+    "categories": {
+      "en": ["Botany", "Mythology", "Science"],
+      "zh": ["植物學", "神話", "科學"]
+    },
+    "correct_category": {
+      "en": ["Botany"],
+      "zh": ["植物學"]
+    },
+    "explanation": {
+      "en": "The 'Upside-Down Tree', or Baobab, is a peculiar tree found in Africa that seems to grow upside down, with its roots above the ground. This tree is famous for storing water in its trunk during dry periods, giving it a distinctive look.",
+      "zh": "『倒生樹』或叫猴麵包樹，是非洲特有的一種奇特樹木，它似乎倒過來生長，樹根長在地面之上。這棵樹以在乾旱期間將水分儲存在樹幹中而聞名，呈現出獨特的外觀。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Village That Exists Only at Night",
+      "zh": "只在夜間存在的村莊"
+    },
+    "categories": {
+      "en": ["Culture", "History", "Mystery"],
+      "zh": ["文化", "歷史", "神秘"]
+    },
+    "correct_category": {
+      "en": ["Culture"],
+      "zh": ["文化"]
+    },
+    "explanation": {
+      "en": "In Norway, there is a village that only operates at night. The inhabitants of 'Nattbyen' have adapted to a nocturnal lifestyle due to the extreme daylight hours in the region. The village is quiet during the day but becomes a bustling hub at night.",
+      "zh": "在挪威，有一個只在夜間運作的村莊。由於該地區極端的日照時間，『Nattbyen』的居民已經適應了夜行生活方式。白天村莊寧靜，但夜晚卻成為熱鬧的集散地。"
+    }
+  },
+  {
+    "topic": {
+      "en": "The Bridge That Vanishes in Fog",
+      "zh": "在霧中消失的橋"
+    },
+    "categories": {
+      "en": ["Engineering", "Geography", "Mythology"],
+      "zh": ["工程學", "地理", "神話"]
+    },
+    "correct_category": {
+      "en": ["Engineering"],
+      "zh": ["工程學"]
+    },
+    "explanation": {
+      "en": "The Golden Gate Bridge in San Francisco is often enveloped in thick fog, causing it to disappear from view for long periods. While it is a natural phenomenon, some believe that the fog is a mystical force that swallows the bridge to protect the city.",
+      "zh": "位於舊金山的金門大橋經常被濃霧包圍，使其長時間消失在視野之外。雖然這是一種自然現象，但有些人認為這些霧氣是神秘的力量，吞噬了大橋以保護城市。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Some restaurants use robots as waiters.",
+      "zh": "機器人服務"
+    },
+    "categories": {
+      "en": ["Technology", "Restaurants", "Automation"],
+      "zh": ["科技", "餐廳", "自動化"]
+    },
+    "correct_category": {
+      "en": ["Technology"],
+      "zh": ["科技"]
+    },
+    "explanation": {
+      "en": "In several countries, restaurants have introduced robot waiters to deliver food to tables. These robots are often equipped with voice recognition and navigation systems.",
+      "zh": "在許多國家，餐廳引進機器人作為服務生，負責送餐。這些機器人通常配備語音識別和導航系統。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Some people collect air from famous places.",
+      "zh": "名地空氣"
+    },
+    "categories": {
+      "en": ["Tourism", "Collectors", "Strange Trends"],
+      "zh": ["旅遊", "收藏", "奇特潮流"]
+    },
+    "correct_category": {
+      "en": ["Collectors"],
+      "zh": ["收藏"]
+    },
+    "explanation": {
+      "en": "Collectors around the world have sold jars of air from famous locations, such as the Alps or the Great Wall of China. Some people buy these jars as novelty souvenirs, while others believe the air has special purity or energy. In some cases, sellers have even claimed that breathing the air from these locations can improve health, though there is no scientific proof to support this.",
+      "zh": "世界各地有收藏家販賣來自著名地點的瓶裝空氣，例如阿爾卑斯山或長城。有些人購買這些瓶子當作紀念品，而另一些人則認為這些空氣具有特殊的純淨度或能量。甚至有賣家聲稱，吸入這些地點的空氣可以改善健康，但至今沒有科學證據證明這一點。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There's a hotel where guests sleep in old drain pipes.",
+      "zh": "水管旅館"
+    },
+    "categories": {
+      "en": ["Hotels", "Architecture", "Travel"],
+      "zh": ["旅館", "建築", "旅遊"]
+    },
+    "correct_category": {
+      "en": ["Hotels"],
+      "zh": ["旅館"]
+    },
+    "explanation": {
+      "en": "Some hotels use repurposed concrete drain pipes as rooms, offering a unique and compact sleeping experience. These cylindrical rooms are often equipped with basic amenities such as a bed, lighting, and ventilation, making them a minimalist but functional option. While the idea started as an eco-friendly and cost-effective solution, it has gained popularity among adventurous travelers looking for unusual accommodations.",
+      "zh": "有些旅館將大型混凝土水管改造成客房，提供獨特且緊湊的住宿體驗。這些圓柱形房間通常配備基本設施，如床、照明和通風系統，雖然簡單但仍然實用。最初，這種設計是為了提供環保且低成本的住宿選擇，但隨著時間推移，它變成了許多尋求特殊住宿體驗的旅客的熱門選擇。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Some bridges play music when you drive over them.",
+      "zh": "音樂橋樑"
+    },
+    "categories": {
+      "en": ["Engineering", "Sound Design", "Transportation"],
+      "zh": ["工程", "聲音設計", "交通"]
+    },
+    "correct_category": {
+      "en": ["Engineering"],
+      "zh": ["工程"]
+    },
+    "explanation": {
+      "en": "Certain roads and bridges have grooves cut into them so that when cars drive over them at the right speed, they produce musical notes. These 'singing roads' have been built in countries like the United States, Japan, and South Korea. The grooves must be precisely spaced so that the vibrations create recognizable melodies, often used as a fun way to encourage drivers to maintain safe speeds.",
+      "zh": "某些道路和橋樑上刻有特殊的凹槽，當車輛以特定速度行駛時，輪胎與凹槽接觸會產生音符，形成音樂。這種『會唱歌的道路』曾出現在美國、日本和南韓等地。凹槽的間距必須經過精密計算，確保產生可辨識的旋律，這通常用來提醒駕駛人保持適當車速。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There’s a museum dedicated to failed products.",
+      "zh": "失敗博物"
+    },
+    "categories": {
+      "en": ["Business", "Museums", "Marketing"],
+      "zh": ["商業", "博物館", "行銷"]
+    },
+    "correct_category": {
+      "en": ["Museums"],
+      "zh": ["博物館"]
+    },
+    "explanation": {
+      "en": "The Museum of Failure, located in Sweden and with traveling exhibits worldwide, showcases products that were unsuccessful in the market. Items on display include strange inventions like the 'Colgate Beef Lasagna' and the 'Apple Newton,' an early failed attempt at a tablet. The museum serves as a reminder that even big companies make mistakes, and failure is a part of innovation.",
+      "zh": "瑞典的『失敗博物館』專門展示市場上曾經失敗的產品，並且有巡迴展覽。館內展出的物品包括奇怪的發明，例如『高露潔牛肉千層麵』和蘋果早期失敗的平板電腦『Apple Newton』。這座博物館提醒人們，即使是大企業也會犯錯，而失敗是創新的重要部分。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Some islands have wild rabbits everywhere.",
+      "zh": "兔子島嶼"
+    },
+    "categories": {
+      "en": ["Geography", "Animals", "Tourism"],
+      "zh": ["地理", "動物", "旅遊"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理"]
+    },
+    "explanation": {
+      "en": "There are islands, such as Ōkunoshima in Japan, that are home to hundreds of wild rabbits. These rabbits are believed to be descendants of animals released on the island decades ago, and they now roam freely. The island has since become a popular tourist attraction, where visitors can feed and interact with the friendly rabbits.",
+      "zh": "有些島嶼，例如日本的大久野島，居住著數百隻野生兔子。這些兔子據信是數十年前被釋放到島上的動物後代，現在自由繁殖。該島現已成為熱門旅遊景點，遊客可以餵食兔子並與它們互動。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There’s a hotel made entirely of ice.",
+      "zh": "冰雪旅館"
+    },
+    "categories": {
+      "en": ["Hotels", "Architecture", "Extreme Tourism"],
+      "zh": ["旅館", "建築", "極限旅遊"]
+    },
+    "correct_category": {
+      "en": ["Hotels"],
+      "zh": ["旅館"]
+    },
+    "explanation": {
+      "en": "The Icehotel in Sweden is rebuilt every year using ice and snow from the nearby Torne River. Guests sleep on beds made of ice, covered with warm reindeer hides and thermal sleeping bags. Since the structure melts every spring, each year's design is unique, attracting visitors who want a once-in-a-lifetime experience.",
+      "zh": "瑞典的冰雪旅館每年都會用附近托爾訥河的冰雪重新建造。住客睡在冰床上，床鋪覆蓋著馴鹿皮和保暖睡袋。由於旅館在春天會融化，每一年的設計都不相同，吸引許多想體驗獨特住宿的旅客。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There’s a library that only lends invisible books.",
+      "zh": "隱形書館"
+    },
+    "categories": {
+      "en": ["Libraries", "Art Projects", "Mysteries"],
+      "zh": ["圖書館", "藝術計畫", "神秘"]
+    },
+    "correct_category": {
+      "en": ["Art Projects"],
+      "zh": ["藝術計畫"]
+    },
+    "explanation": {
+      "en": "An artist in Argentina created a conceptual library where all the books are blank, leaving visitors to 'imagine' their own stories. The project was designed to explore the relationship between books and the human mind. While the library has no readable content, it continues to spark discussions about creativity and interpretation.",
+      "zh": "阿根廷的一位藝術家創建了一座概念性圖書館，裡面的書籍都是空白的，讓讀者自行『想像』故事。這個計畫的目的是探索書本與人類思維的關係。雖然這座圖書館沒有可讀的內容，但它仍然引發了關於創意和解讀的討論。"
+    }
+  },
+  {
+    "topic": {
+      "en": "A town used geese instead of guard dogs.",
+      "zh": "鵝當守衛"
+    },
+    "categories": {
+      "en": ["Animals", "Security", "History"],
+      "zh": ["動物", "安全", "歷史"]
+    },
+    "correct_category": {
+      "en": ["Security"],
+      "zh": ["安全"]
+    },
+    "explanation": {
+      "en": "In some villages, geese were used instead of dogs for guarding homes and important locations. Geese are highly territorial and have excellent hearing, making them effective at detecting intruders. Historical records show that even ancient Rome used geese to warn against enemy attacks.",
+      "zh": "在一些村莊，人們曾用鵝來代替狗來守衛家園和重要場所。鵝的領地意識很強，且聽覺敏銳，能有效偵測入侵者。歷史記載顯示，甚至在古羅馬時期，人們也曾用鵝來警戒敵軍入侵。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There’s an island where cats outnumber humans.",
+      "zh": "貓島"
+    },
+    "categories": {
+      "en": ["Geography", "Animals", "Tourism"],
+      "zh": ["地理", "動物", "旅遊"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理"]
+    },
+    "explanation": {
+      "en": "Japan’s Aoshima Island, also known as 'Cat Island,' is home to hundreds of cats, vastly outnumbering the small human population. Originally introduced to control rodents on fishing boats, the cat population grew rapidly over time. Today, the island attracts visitors from around the world who come to interact with the friendly felines roaming freely.",
+      "zh": "日本的青島被稱為『貓島』，島上有數百隻貓，數量遠超當地居民。這些貓最初是被漁民帶來用來控制老鼠，但隨著時間推移，數量不斷增加。如今，這座島成為貓奴的天堂，吸引來自世界各地的遊客前來與貓咪互動。"
+    }
+  },
+  {
+    "topic": {
+      "en": "A man lived in an airport for 18 years.",
+      "zh": "機場居民"
+    },
+    "categories": {
+      "en": ["History", "Travel", "Unusual Stories"],
+      "zh": ["歷史", "旅遊", "奇聞"]
+    },
+    "correct_category": {
+      "en": ["History"],
+      "zh": ["歷史"]
+    },
+    "explanation": {
+      "en": "Mehran Karimi Nasseri, an Iranian refugee, lived in the Charles de Gaulle Airport in France for 18 years due to legal complications with his travel documents. During this time, he made a small area in the airport his home, receiving food and support from airport staff. His story later inspired the movie 'The Terminal,' starring Tom Hanks.",
+      "zh": "伊朗難民梅赫蘭·卡里米·納賽里因旅行文件的法律問題，被迫在法國戴高樂機場生活了18年。在這段期間，他在機場內建立了一個臨時住所，並靠機場工作人員的幫助維持生活。他的故事後來成為湯姆漢克主演的電影《航站情緣》的靈感來源。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There's a bridge made entirely of roots.",
+      "zh": "樹根橋"
+    },
+    "categories": {
+      "en": ["Engineering", "Nature", "Traditions"],
+      "zh": ["工程", "自然", "傳統"]
+    },
+    "correct_category": {
+      "en": ["Nature"],
+      "zh": ["自然"]
+    },
+    "explanation": {
+      "en": "In the Indian state of Meghalaya, locals have been growing 'living root bridges' for centuries using the aerial roots of rubber trees. These bridges take decades to fully form, as the roots are carefully guided across rivers and intertwined for strength. Some of these natural bridges have lasted for over 500 years and continue to be used today.",
+      "zh": "在印度梅加拉亞邦，當地居民利用橡膠樹的氣生根來『種植』橋樑，這種傳統已經延續了幾百年。這些橋需要數十年才能成形，因為居民會小心地引導樹根橫跨河流，並交織在一起以增加強度。一些這樣的天然橋梁已經使用超過500年，至今仍然堅固耐用。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There’s a lake that turns animals into stone.",
+      "zh": "石化湖"
+    },
+    "categories": {
+      "en": ["Nature", "Mysteries", "Chemistry"],
+      "zh": ["自然", "謎團", "化學"]
+    },
+    "correct_category": {
+      "en": ["Nature"],
+      "zh": ["自然"]
+    },
+    "explanation": {
+      "en": "Lake Natron in Tanzania has extremely high alkalinity, which can rapidly preserve and mummify animals that come into contact with its water. The high salt and mineral content causes creatures to appear ‘petrified,’ as if turned to stone. Despite its harsh conditions, some specialized fish and microorganisms thrive in the lake.",
+      "zh": "坦尚尼亞的納特龍湖擁有極高的鹼性，能快速保存並木乃伊化接觸到湖水的動物。由於高鹽與礦物質含量，這些生物看起來像是被『石化』了一樣。儘管環境嚴酷，仍然有一些特殊的魚類和微生物能夠在湖中生存。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There is a hotel that never closes.",
+      "zh": "不關門旅館"
+    },
+    "categories": {
+      "en": ["Hotels", "Travel", "Unusual Places"],
+      "zh": ["旅館", "旅行", "特殊地點"]
+    },
+    "correct_category": {
+      "en": ["Hotels"],
+      "zh": ["旅館"]
+    },
+    "explanation": {
+      "en": "Nishiyama Onsen Keiunkan in Japan is the oldest hotel in the world and has been operating continuously for over 1,300 years. The hotel has been run by the same family for more than 50 generations, offering guests natural hot spring baths and traditional Japanese hospitality. Despite modern advancements, the hotel preserves its historical atmosphere.",
+      "zh": "位於日本的西山溫泉慶雲館是世界上最古老的旅館，已經連續經營超過1300年。這家旅館由同一家族經營，傳承了50多代，提供天然溫泉浴和傳統的日式款待。儘管現代化發展，這家旅館依然保留著其歷史氛圍。"
+    }
+  },
+  {
+    "topic": {
+      "en": "A flower blooms only once every few years.",
+      "zh": "罕見花開"
+    },
+    "categories": {
+      "en": ["Plants", "Rare Phenomena", "Nature"],
+      "zh": ["植物", "罕見現象", "自然"]
+    },
+    "correct_category": {
+      "en": ["Plants"],
+      "zh": ["植物"]
+    },
+    "explanation": {
+      "en": "The corpse flower (Amorphophallus titanum) blooms only once every 7–10 years and emits a strong odor similar to rotting flesh. The smell attracts pollinators like flies and beetles, which help the plant reproduce. This rare and gigantic flower can grow over three meters tall and is a major attraction when it blooms.",
+      "zh": "巨花魔芋（又稱屍花）每7到10年才會開花一次，並釋放出類似腐肉的強烈氣味。這種氣味吸引蒼蠅和甲蟲來為其授粉，幫助植物繁殖。這種罕見且巨大的花朵可以生長到超過三公尺高，每次開花時都會吸引大量遊客觀賞。"
+    }
+  },
+  {
+    "topic": {
+      "en": "A fish can ‘walk’ on land.",
+      "zh": "會走的魚"
+    },
+    "categories": {
+      "en": ["Animals", "Evolution", "Unusual Creatures"],
+      "zh": ["動物", "演化", "奇特生物"]
+    },
+    "correct_category": {
+      "en": ["Animals"],
+      "zh": ["動物"]
+    },
+    "explanation": {
+      "en": "The mudskipper is a unique fish that can survive on land for extended periods by breathing through its skin and mouth. It uses its strong pectoral fins to 'walk' or hop across mudflats. Found in mangrove swamps and tidal areas, mudskippers are an example of how animals adapt to different environments.",
+      "zh": "彈塗魚是一種獨特的魚類，可以在陸地上長時間生存，透過皮膚和口腔來呼吸。它使用強壯的胸鰭在泥灘上『行走』或跳躍。在紅樹林和潮間帶可以發現彈塗魚，它們是動物如何適應不同環境的絕佳例子。"
+    }
+  },
+  {
+    "topic": {
+      "en": "Some turtles can breathe through their butts.",
+      "zh": "龜屁呼吸"
+    },
+    "categories": {
+      "en": ["Animals", "Biology", "Unusual Adaptations"],
+      "zh": ["動物", "生物學", "奇特適應"]
+    },
+    "correct_category": {
+      "en": ["Animals"],
+      "zh": ["動物"]
+    },
+    "explanation": {
+      "en": "Certain species of turtles, such as the Australian Fitzroy River turtle, can absorb oxygen through their cloaca, an opening used for excretion and reproduction. This allows them to stay underwater for extended periods without surfacing for air. This unique adaptation is especially useful during hibernation in cold waters.",
+      "zh": "某些烏龜，如澳洲的菲茨羅伊河龜，可以通過泄殖腔吸收氧氣，這個開口同時用於排泄和繁殖。這種能力讓它們可以長時間待在水下，不需要頻繁上來換氣。這種特殊的適應性在寒冷水域冬眠時特別有用。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There is a mountain that grows taller every year.",
+      "zh": "長高的山"
+    },
+    "categories": {
+      "en": ["Geography", "Earth Science", "Natural Wonders"],
+      "zh": ["地理", "地球科學", "自然奇觀"]
+    },
+    "correct_category": {
+      "en": ["Geography"],
+      "zh": ["地理"]
+    },
+    "explanation": {
+      "en": "Mount Everest, the tallest mountain on Earth, grows about 4 millimeters taller each year due to the slow but constant collision of the Indian and Eurasian tectonic plates. This ongoing geological process has been shaping the Himalayas for millions of years. However, earthquakes can temporarily alter the mountain’s height.",
+      "zh": "世界最高峰珠穆朗瑪峰每年都會長高約4毫米，這是因為印度板塊與歐亞板塊持續碰撞所導致的。這個地質過程已經塑造喜馬拉雅山脈數百萬年。然而，地震可能會短暫改變山峰的高度。"
+    }
+  },
+  {
+    "topic": {
+      "en": "A type of honey can make people hallucinate.",
+      "zh": "致幻蜂蜜"
+    },
+    "categories": {
+      "en": ["Food", "Chemistry", "Unusual Effects"],
+      "zh": ["食物", "化學", "奇特效果"]
+    },
+    "correct_category": {
+      "en": ["Food"],
+      "zh": ["食物"]
+    },
+    "explanation": {
+      "en": "Mad honey, produced by bees that collect nectar from rhododendron flowers, contains natural neurotoxins called grayanotoxins. Consuming even a small amount can cause dizziness, hallucinations, and low blood pressure. This honey has been used for centuries in some cultures for its intoxicating effects and medicinal properties.",
+      "zh": "瘋狂蜂蜜是由採集杜鵑花蜜的蜜蜂生產的，其中含有天然神經毒素——灰毬毒素。食用少量可能會引起頭暈、幻覺和低血壓。在某些文化中，這種蜂蜜被用作具有迷幻效果的食品，也有一定的藥用價值。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There is a fish that can change its gender.",
+      "zh": "變性魚"
+    },
+    "categories": {
+      "en": ["Animals", "Biology", "Unusual Adaptations"],
+      "zh": ["動物", "生物學", "奇特適應"]
+    },
+    "correct_category": {
+      "en": ["Animals"],
+      "zh": ["動物"]
+    },
+    "explanation": {
+      "en": "Certain fish, like clownfish and wrasses, can change their gender based on social needs. In clownfish groups, if the dominant female dies, the largest male will transform into a female to maintain the group’s hierarchy. This biological ability helps species adapt to changing environments and population dynamics.",
+      "zh": "某些魚類，如小丑魚和鸚鯉，可以根據社會需求改變性別。在小丑魚群體中，當主要雌魚死亡時，最大的雄魚會轉變為雌性，以維持族群的秩序。這種生物能力幫助它們適應環境變化和族群動態。"
+    }
+  },
+  {
+    "topic": {
+      "en": "There is a place where gravity seems to disappear.",
+      "zh": "重力異常"
+    },
+    "categories": {
+      "en": ["Geography", "Physics", "Unusual Phenomena"],
+      "zh": ["地理", "物理", "奇特現象"]
+    },
+    "correct_category": {
+      "en": ["Unusual Phenomena"],
+      "zh": ["奇特現象"]
+    },
+    "explanation": {
+      "en": "Gravity hills, also known as mystery spots, are locations where the landscape creates an optical illusion that makes objects appear to roll uphill against gravity. These sites exist all over the world, with famous examples in the United States, Taiwan, and India. The effect is caused by the unusual angles of the surrounding terrain.",
+      "zh": "『重力山』或『神秘點』是一種特殊地點，在這裡，地形創造出光學錯覺，使物體看起來像是在逆重力向上滾動。世界各地都有這樣的地點，美國、台灣和印度都有著名的案例。這種現象其實是由於周圍地形的特殊角度所造成的錯覺。"
     }
   }
-  
 ]
