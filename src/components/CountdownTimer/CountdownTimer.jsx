@@ -4,7 +4,7 @@ import "react-circular-progressbar/dist/styles.css";
 import "./CountdownTimer.css";
 
 const CountdownTimer = ({ onTimerEnd }) => {
-  const [timeLeft, setTimeLeft] = useState(30);
+  const [timeLeft, setTimeLeft] = useState(15);
   const [isActive, setIsActive] = useState(true);
 
   useEffect(() => {
@@ -34,7 +34,7 @@ const CountdownTimer = ({ onTimerEnd }) => {
     <div className="countdown-timer-container">
       <div className="countdown-timer">
         <CircularProgressbar
-          value={(timeLeft / 30) * 100}
+          value={(timeLeft / 15) * 100}
           text={`${timeLeft}`}
           styles={buildStyles({
             textSize: "20px",
